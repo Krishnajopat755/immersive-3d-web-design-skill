@@ -1,6 +1,6 @@
 # Immersive 3D Web Design
 
-A Claude Code skill for building award-winning immersive, 3D, and WebGL-powered web experiences — the kind made by Active Theory, Bruno Simon, and Resn. Not generic AI websites.
+A Claude Code skill for building award-winning immersive, 3D, and WebGL-powered web experiences.
 
 ## Installation
 
